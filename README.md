@@ -1,2 +1,3 @@
 # Spotify-Clone
-Made a spotify clone using HTML,CSS and Javascript.
+Created a simple spotify clone using html css and javascript.
+
